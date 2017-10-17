@@ -23,7 +23,8 @@ console.log(name);
 // 4
 var customArray = [1,2,3];
 console.log(customArray);
-customArray = [0,0,0];
+customArray = [0,0,0]; // тут просто нужно было перезаписать знаение всего массива на 0 то есть 
+// customArray = 0;
 console.log(customArray);
 
 //5
@@ -31,6 +32,8 @@ var student = "Alexey";
 console.log(student);
 student = "Omelchenko";
 //??
+// не знаю что ожидалось в результате у тебя о в строке должна быть твое имя и фамилия а когда ты просто записал в нее свою 
+// фамиилию имя затерлось в этом случае можно было использовать оператор +=: student += ' Omelchenko'; 
 
 // 6
 var complex = [];
