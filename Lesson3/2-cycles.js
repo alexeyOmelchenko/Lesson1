@@ -53,3 +53,18 @@
 //         console.log(arr[i])}
 //         else {}
 // }
+
+//7
+
+// var arr = ["январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"];
+//
+// var month = "октябрь";
+//
+// for(var i = 0; i < arr.length; i++){
+//     if(arr[i] == month){
+//         console.log('%c%s', 'font-weight: bold;', arr[i]);
+//
+//     }else {
+//         console.log(arr[i]);
+//     }
+// }
