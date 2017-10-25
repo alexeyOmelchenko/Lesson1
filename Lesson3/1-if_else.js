@@ -22,6 +22,9 @@
 //          console.log("ERROR");
 // }
 
+// ?? Проверьте работу скрипта при a, равном 'test', 'тест', 3.
+
+
 //2
 
 // function sort(a) {
@@ -71,6 +74,8 @@
 // };
 // console.log(result);
 
+// ??  Проверьте работу скрипта при a и b, равных 2 и 5, 3 и 1.
+
 //5
 
 // var a = +prompt("Insert a");
@@ -80,6 +85,8 @@
 //     a = a + 7;
 // }
 // console.log(a);
+// ?? Проверьте работу скрипта при a, равном 5, 0, -3, 2.
+
 
 //6
 
@@ -90,6 +97,8 @@
 // } else {
 //     console.log("Neverno");
 // };
+
+// ?? Проверьте работу скрипта при a и b, равном 1 и 3, 0 и 6, 3 и 5.
 
 //7
 
@@ -127,6 +136,7 @@
 // var lang = prompt("Insert your language");
 // var arr = [];
 // if (lang == "ru"){
+// лучше обьявить эти 3 массива в 3 отдельных пееменных
 //     console.log(arr = ["Pon", "Vt", "Sr", "Cht", "Pyat", "Sub", "Vskr"]);
 // }       else if(lang == "de"){
 //          console.log(arr = ["Mo", "Di", "Mi", "Do", "Fr" , "Sa", "So"]);
